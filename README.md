@@ -2,20 +2,20 @@
 
 ### Typography 
 
-[Google Fonts](fonts.google.com)
+[Google Fonts](https://fonts.google.com)
 
-[Data Font](dafont.com)
+[Data Font](https://dafont.com)
 
-[Font Squirrel](fontsquirrel.com)
+[Font Squirrel](https://fontsquirrel.com)
 
-[Fontshare](fontshare.com)
+[Fontshare](https://fontshare.com)
 
-[Cufon Fonts](cufonfonts.com)
+[Cufon Fonts](https://cufonfonts.com)
 
-[Font Space](fontspace.com)
+[Font Space](https://fontspace.com)
 
-[Font Space](fontspace.com)
+[Font Space](https://fontspace.com)
 
-[Font Bundles](fontbundles.net/free-fonts)
+[Font Bundles](https://fontbundles.net/free-fonts)
 
-[Urban Fonts](urbanfonts.com)
+[Urban Fonts](https://urbanfonts.com)
