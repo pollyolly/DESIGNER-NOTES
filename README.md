@@ -55,3 +55,21 @@
 [LS Graphics](https://ls.graphics)
 
 [Figma Community](https://www.figma.com/community)
+
+### Icons
+
+[Icons8](https://icons8.com)
+
+[Iconsax](https://iconsax.io)
+
+[Iconly 2.5](https://www.figma.com/community)
+
+[IconScout](https://iconscout.com/free-icons)
+
+[Google Icons](https://fonts.google.com/icons)
+
+[Feather Icons](https://feathericons.com)
+
+[Flaticon](https://flaticon.com)
+
+[The Noun Project](https://thenounproject.com)
