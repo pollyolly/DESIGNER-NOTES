@@ -1,5 +1,9 @@
 # DESIGNER-NOTES
 
+### UI
+
+[UI Store](https://uistore.org/)
+
 ### Typography 
 
 [Google Fonts](https://fonts.google.com)
@@ -73,3 +77,39 @@
 [Flaticon](https://flaticon.com)
 
 [The Noun Project](https://thenounproject.com)
+
+### Illustrations
+
+[Humaaans](https://humaaans.com)
+
+[unDraw](https://undraw.co)
+
+[Ouch](https://icons8.com/illustrations)
+
+[Blush](https://blush.design)
+
+[Open Doodles](https://opendoodles.com)
+
+[Ouch!](https://uistore.design/items/ouch-free-illustrations/)
+
+[Craftwork Design](https://craftwork.design/downloads/category/freebies)
+
+[Drawkit](https://drawkit.com)
+
+### Colours
+
+[Adobe Color](https://color.adobe.com)
+
+[Coolors](https://coolors.co)
+
+[Color Hunt](https://colorhunt.co)
+
+[Khroma](https://khroma.co)
+
+[Muzli Colors](https://colors.muz.li)
+
+[Dopely Colors](https://colors.dopely.top)
+
+[Flat UI Colors](https://flatuicolors.com)
+
+[Interface Colour](https://instagram.com/interface.colour)
