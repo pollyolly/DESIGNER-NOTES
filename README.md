@@ -113,3 +113,21 @@
 [Flat UI Colors](https://flatuicolors.com)
 
 [Interface Colour](https://instagram.com/interface.colour)
+
+### 3D Packs
+
+[UI8 Freebies](https://ui8.net/categories/freebies)
+
+[Ouch](https://icons8.com/illustrations/3d)
+
+[Abstract Shapes](https://iconscout.com/l/3d-abstract)
+
+[Handy 3D Hands](https://icons8.com/l/3d-hands/)
+
+[BAM](https://gumroad.com/l/bamillu)
+
+[Freepik](https://freepik.com)
+
+[3D Icons](https://3dicons.co)
+
+[Shapefest](https://shapefest.com)
